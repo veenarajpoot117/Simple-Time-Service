@@ -41,7 +41,7 @@ simple-time-service/
 #### 1. Clone the Repository
 ```bash
 git clone https://github.com/veenarajpoot117/Simple-Time-Service.git
-cd simple-time-service
+cd simple-time-service/app
 ```
 
 #### 2. Build the Docker Image
@@ -96,7 +96,7 @@ This task involves using Terraform to deploy the **SimpleTimeService** to Google
 
 #### 1. Navigate to the Terraform Directory
 ```bash
-cd terraform
+cd simple-time-service\terraform
 ```
 
 #### 2. Initialize Terraform
