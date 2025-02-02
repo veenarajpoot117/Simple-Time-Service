@@ -96,7 +96,7 @@ This task involves using Terraform to deploy the **SimpleTimeService** to Google
 
 #### 1. Navigate to the Terraform Directory
 ```bash
-cd simple-time-service\terraform
+cd simple-time-service/terraform
 ```
 
 #### 2. Initialize Terraform
